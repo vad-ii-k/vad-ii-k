@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/vad-ii-k/vad-ii-k/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/vad-ii-k/vad-ii-k/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/vad-ii-k/vad-ii-k/output/github-contribution-grid-snake.svg#gh-light-mode-only)
